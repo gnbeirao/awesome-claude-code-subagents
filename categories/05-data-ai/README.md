@@ -2,7 +2,7 @@
 
 Data & AI subagents are your specialists in the world of data engineering, machine learning, and artificial intelligence. These experts handle everything from building robust data pipelines to training sophisticated ML models, from optimizing databases to deploying AI systems at scale. They bridge the gap between raw data and intelligent applications, ensuring your data-driven solutions are efficient, scalable, and impactful.
 
-## <¯ When to Use Data & AI Subagents
+## <ï¿½ When to Use Data & AI Subagents
 
 Use these subagents when you need to:
 - **Build data pipelines** for ETL/ELT workflows
@@ -14,7 +14,7 @@ Use these subagents when you need to:
 - **Deploy ML models** with MLOps best practices
 - **Analyze data** for business insights
 
-## =Ë Available Subagents
+## =ï¿½ Available Subagents
 
 ### [**ai-engineer**](ai-engineer.md) - AI system design and deployment expert
 AI systems specialist building production-ready artificial intelligence solutions. Masters model deployment, scaling, and integration. Bridges the gap between AI research and real-world applications.
@@ -41,6 +41,11 @@ Database performance expert ensuring queries run at lightning speed. Masters ind
 
 **Use when:** Optimizing slow queries, designing efficient schemas, implementing indexing strategies, tuning database performance, or scaling databases.
 
+### [**elasticsearch-specialist**](elasticsearch-specialist.md) - Search infrastructure expert
+Elasticsearch/OpenSearch specialist mastering search infrastructure, indexing strategies, and analytics. Adapts to project's version with deep knowledge of mapping design, query optimization, and cluster management.
+
+**Use when:** Building search infrastructure, optimizing Elasticsearch queries, designing index mappings, managing clusters, or implementing log analytics.
+
 ### [**llm-architect**](llm-architect.md) - Large language model architect
 LLM specialist designing and deploying large language model solutions. Expert in prompt engineering, fine-tuning, and LLM applications. Harnesses the power of modern language models.
 
@@ -61,6 +66,11 @@ MLOps specialist ensuring smooth ML model deployment and operations. Masters CI/
 
 **Use when:** Setting up ML pipelines, implementing model monitoring, automating ML workflows, managing model versions, or establishing MLOps practices.
 
+### [**mysql-specialist**](mysql-specialist.md) - MySQL/MariaDB expert
+MySQL/MariaDB specialist mastering database administration, query optimization, and replication. Adapts to project's version with deep knowledge of performance tuning, security, and high availability.
+
+**Use when:** Optimizing MySQL queries, configuring replication, setting up clustering, troubleshooting performance issues, or implementing backup strategies.
+
 ### [**nlp-engineer**](nlp-engineer.md) - Natural language processing expert
 NLP specialist building systems that understand and generate human language. Expert in text processing, language models, and linguistic analysis. Makes machines understand text.
 
@@ -71,12 +81,17 @@ PostgreSQL specialist mastering advanced features and optimizations. Expert in c
 
 **Use when:** Working with PostgreSQL, optimizing Postgres queries, implementing advanced features, designing PostgreSQL schemas, or troubleshooting Postgres issues.
 
+### [**redis-specialist**](redis-specialist.md) - In-memory data expert
+Redis specialist mastering in-memory data structures, caching strategies, and pub/sub. Adapts to project's version with deep knowledge of performance optimization, persistence, and high availability.
+
+**Use when:** Implementing caching strategies, setting up Redis clusters, configuring pub/sub, optimizing memory usage, or building real-time features.
+
 ### [**prompt-engineer**](prompt-engineer.md) - Prompt optimization specialist
 Prompt engineering expert crafting effective prompts for AI models. Masters prompt design, testing, and optimization. Maximizes AI model performance through strategic prompting.
 
 **Use when:** Designing prompts for LLMs, optimizing AI responses, implementing prompt strategies, testing prompt effectiveness, or building prompt-based applications.
 
-## =€ Quick Selection Guide
+## =ï¿½ Quick Selection Guide
 
 | If you need to... | Use this subagent |
 |-------------------|-------------------|
@@ -85,15 +100,18 @@ Prompt engineering expert crafting effective prompts for AI models. Masters prom
 | Build data pipelines | **data-engineer** |
 | Create ML models | **data-scientist** |
 | Optimize databases | **database-optimizer** |
+| Build search systems | **elasticsearch-specialist** |
 | Work with LLMs | **llm-architect** |
 | Build ML systems | **machine-learning-engineer** |
 | Train ML models | **ml-engineer** |
 | Deploy ML models | **mlops-engineer** |
+| Optimize MySQL | **mysql-specialist** |
 | Process text data | **nlp-engineer** |
 | Optimize PostgreSQL | **postgres-pro** |
+| Implement caching | **redis-specialist** |
 | Design AI prompts | **prompt-engineer** |
 
-## =¡ Common Data & AI Patterns
+## =ï¿½ Common Data & AI Patterns
 
 **End-to-End ML System:**
 - **data-engineer** for data pipeline
@@ -119,7 +137,7 @@ Prompt engineering expert crafting effective prompts for AI models. Masters prom
 - **ai-engineer** for deployment
 - **data-engineer** for data flow
 
-## <¬ Getting Started
+## <ï¿½ Getting Started
 
 1. **Define your data/AI objectives** clearly
 2. **Assess your data landscape** and requirements
@@ -127,7 +145,7 @@ Prompt engineering expert crafting effective prompts for AI models. Masters prom
 4. **Provide data context** and constraints
 5. **Follow best practices** for implementation
 
-## =Ú Best Practices
+## =ï¿½ Best Practices
 
 - **Start with data quality:** Good models need good data
 - **Iterate quickly:** ML is experimental by nature

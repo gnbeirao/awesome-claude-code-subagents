@@ -80,6 +80,11 @@ React framework expert specializing in Next.js App Router, server components, an
 
 **Use when:** Creating Next.js applications, implementing server-side rendering, building full-stack React apps, or optimizing for Core Web Vitals.
 
+### [**nuxt-developer**](nuxt-developer.md) - Nuxt.js full-stack specialist
+Vue.js framework expert specializing in Nuxt.js SSR, static generation, and full-stack features. Adapts to project's Nuxt version. Builds fast, SEO-friendly Vue applications.
+
+**Use when:** Creating Nuxt applications, implementing Vue SSR, building full-stack Vue apps, working with Nitro server, or optimizing for SEO.
+
 ### [**php-pro**](php-pro.md) - PHP web development expert
 Modern PHP specialist with expertise in PHP 8+ features, Composer ecosystem, and framework-agnostic development. Builds secure, performant PHP applications.
 
@@ -147,6 +152,7 @@ Vue.js framework specialist mastering the Composition API, reactivity system, an
 | Kotlin | **kotlin-specialist** | Android apps, modern JVM |
 | Laravel | **laravel-specialist** | PHP web applications |
 | Next.js | **nextjs-developer** | Full-stack React apps |
+| Nuxt.js | **nuxt-developer** | Full-stack Vue apps, SSR |
 | PHP | **php-pro** | Web development, APIs |
 | Python | **python-pro** | General purpose, data science |
 | Rails | **rails-expert** | Rapid web development |
@@ -162,7 +168,7 @@ Vue.js framework specialist mastering the Composition API, reactivity system, an
 
 **Modern Web Application:**
 - **react-specialist** + **typescript-pro** + **nextjs-developer**
-- **vue-expert** + **typescript-pro** + **laravel-specialist**
+- **vue-expert** + **typescript-pro** + **nuxt-developer**
 - **angular-architect** + **spring-boot-engineer**
 
 **Mobile Development:**
