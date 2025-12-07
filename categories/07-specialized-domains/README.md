@@ -26,6 +26,11 @@ Blockchain expert building decentralized applications and smart contracts. Maste
 
 **Use when:** Building dApps, writing smart contracts, implementing DeFi protocols, creating NFT platforms, or integrating blockchain features.
 
+### [**email-delivery-specialist**](email-delivery-specialist.md) - Mass email infrastructure expert
+Email delivery expert mastering DNS authentication (DKIM, SPF, DMARC, BIMI), MTA/SMTP configuration, IP warmup strategies, and sender reputation management. Ensures maximum inbox placement rates for high-volume email sending.
+
+**Use when:** Setting up email infrastructure, configuring DNS authentication, implementing IP warmup, managing sender reputation, or optimizing deliverability.
+
 ### [**embedded-systems**](embedded-systems.md) - Embedded and real-time systems expert
 Embedded systems specialist working with constrained environments. Expert in microcontrollers, RTOS, and hardware interfaces. Builds efficient software for resource-limited devices.
 
@@ -46,6 +51,11 @@ IoT expert connecting physical devices to the cloud. Masters device protocols, e
 
 **Use when:** Building IoT applications, implementing device communication, managing IoT fleets, processing sensor data, or designing IoT architectures.
 
+### [**kumomta-specialist**](kumomta-specialist.md) - KumoMTA expert
+KumoMTA specialist with Lua-based configuration expertise. Masters high-performance email delivery, traffic shaping, and modern MTA architecture. Adapts to project's KumoMTA version for optimal configuration.
+
+**Use when:** Deploying KumoMTA, writing Lua configurations, implementing traffic shaping, optimizing high-volume email delivery, or integrating TSA automation.
+
 ### [**mobile-app-developer**](mobile-app-developer.md) - Mobile application specialist
 Mobile expert creating native and cross-platform applications. Masters iOS/Android development, mobile UI/UX, and app store deployment. Builds apps users love on their devices.
 
@@ -55,6 +65,11 @@ Mobile expert creating native and cross-platform applications. Masters iOS/Andro
 Payment specialist integrating various payment providers and methods. Expert in PCI compliance, payment security, and transaction handling. Makes payments seamless and secure.
 
 **Use when:** Integrating payment gateways, implementing subscriptions, handling PCI compliance, processing transactions, or building checkout flows.
+
+### [**powermta-specialist**](powermta-specialist.md) - PowerMTA expert
+PowerMTA specialist with VirtualMTA and traffic shaping expertise. Masters high-volume email delivery, ISP-specific throttling, and enterprise MTA configuration. Adapts to project's PowerMTA version for optimal setup.
+
+**Use when:** Deploying PowerMTA, configuring VirtualMTAs, implementing traffic shaping, optimizing bounce handling, or managing high-volume email delivery.
 
 ### [**quant-analyst**](quant-analyst.md) - Quantitative analysis specialist
 Quantitative expert developing financial algorithms and models. Masters statistical analysis, risk modeling, and algorithmic trading. Turns market data into profitable strategies.
@@ -77,6 +92,9 @@ SEO expert driving organic traffic through search optimization. Masters technica
 |--------|-------------------|----------|
 | API Documentation | **api-documenter** | OpenAPI specs, developer portals |
 | Blockchain/Web3 | **blockchain-developer** | Smart contracts, DeFi, NFTs |
+| Email Delivery | **email-delivery-specialist** | DNS auth, reputation, deliverability |
+| Email MTA (KumoMTA) | **kumomta-specialist** | Lua config, high-volume sending |
+| Email MTA (PowerMTA) | **powermta-specialist** | VirtualMTA, traffic shaping |
 | Embedded/IoT | **embedded-systems** | Firmware, microcontrollers |
 | Financial Tech | **fintech-engineer** | Banking, payments, compliance |
 | Gaming | **game-developer** | Game engines, multiplayer |
@@ -118,6 +136,12 @@ SEO expert driving organic traffic through search optimization. Masters technica
 - **payment-integration** for checkout
 - **mobile-app-developer** for mobile commerce
 - **risk-manager** for fraud prevention
+
+**Mass Email Infrastructure:**
+- **email-delivery-specialist** for deliverability strategy
+- **powermta-specialist** or **kumomta-specialist** for MTA setup
+- **api-documenter** for email API documentation
+- **risk-manager** for compliance and sender reputation
 
 ## <� Getting Started
 
