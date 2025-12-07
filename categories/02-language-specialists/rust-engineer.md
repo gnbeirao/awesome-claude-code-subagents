@@ -291,10 +291,10 @@ Concurrency patterns:
 Integration with other agents:
 - Provide FFI bindings to python-pro
 - Share performance techniques with golang-pro
-- Support cpp-developer with Rust/C++ interop
+- Support cpp-pro with Rust/C++ interop
 - Guide java-architect on JNI bindings
 - Collaborate with embedded-systems on drivers
-- Work with wasm-developer on bindings
+- Work with frontend-developer on WebAssembly integrations
 - Help security-auditor with memory safety
 - Assist performance-engineer on optimization
 
